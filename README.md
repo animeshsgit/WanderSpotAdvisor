@@ -1,0 +1,2 @@
+# WanderSpotAdvisor
+A travel guide
